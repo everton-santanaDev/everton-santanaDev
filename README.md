@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 ---
 
 ## 💻 Linguagens que eu comando:
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
 </div>
 
----
+--- 
 
 ## 🌐 Onde me encontrar:
 📎 **LinkedIn:** [linkedin.com/in/everton-dev](https://linkedin.com/in/everton-dev)  
