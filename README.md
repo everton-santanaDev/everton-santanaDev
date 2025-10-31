@@ -1,34 +1,40 @@
-<h1 align="center">Opaa, Tudo Bom? este sou Eu!</h1>
+# 👋 Opa, tudo bom? Este sou eu!
 
-###
+### Eu sou o **Everton**, também conhecido como **everton.dev** 🚀  
+Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções que realmente fazem a diferença.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="60" alt="polygon logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+---
+
+## 💻 Linguagens que eu comando:
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+## 🌐 Onde me encontrar:
+📎 **LinkedIn:** [linkedin.com/in/everton-dev](https://linkedin.com/in/everton-dev)  
+💬 **Discord:** everton.dev#0001  
+📧 **Gmail:** everton.dev@gmail.com  
+📸 **Instagram:** [instagram.com/everton.dev](https://instagram.com/everton.dev)
 
-###
+---
 
+## 🏆 Troféus do GitHub:
+![Troféus](https://github-profile-trophy.vercel.app/?username=everton-dev&theme=onedark&margin-w=15&no-frame=true&row=1)
+
+---
+
+## 📊 Estatísticas do GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=everton-dev&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dev&layout=compact&theme=tokyonight)
+
+---
+
+✨ _“A cada linha de código, uma nova ideia ganha vida.”_  
