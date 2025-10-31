@@ -1,6 +1,6 @@
-#  Opa, tudo bom? Me chamo Everton!
+#  Ops, como vai?
 
-### Eu sou o **Everton**, também conhecido como **everton.dev** 🚀  
+### Eu sou o **Everton**, também conhecido como **everton.dev** 👨‍💻🇧🇷
 Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções que realmente fazem a diferença.
 
 ---
