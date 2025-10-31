@@ -19,7 +19,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 --- 
 
 ## 🌐 Onde me encontrar:
-📎 **LinkedIn:** [linkedin.com/in/everton-dev](https://linkedin.com/in/everton-dev)  
+📎 **LinkedIn:** [linkedin.com/in/everton-dev](www.linkedin.com/in/everton-santana-5609bb230)  
 💬 **Discord:** everton.dev#0001  
 📧 **Gmail:** everton.dev@gmail.com  
 📸 **Instagram:** [instagram.com/everton.dev](https://instagram.com/everton.dev)
