@@ -27,7 +27,8 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 ---
 
 ## 🏆 Troféus do GitHub:
-![Troféus](https://github-profile-trophy.vercel.app/?username=everton-dev&theme=onedark&margin-w=15&no-frame=true&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=everton-dev&theme=dracula&row=1&column=7)
+
 
 ---
 
