@@ -14,7 +14,9 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL"/>
 </div>
+
 
 --- 
 
