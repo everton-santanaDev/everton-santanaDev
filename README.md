@@ -10,7 +10,7 @@
 
 ---
 
-## Tecnologias
+## Tecnologias que estudo!
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,c,html,css,js,mysql,git,github,vscode&perline=6" />
