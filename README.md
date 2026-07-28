@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 ---
 
 ## 💻 Linguagens que eu comando:
-<p align="left">
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,javascript,c,mysql" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL"/>
-</p>
+</div>
 
 
 --- 
