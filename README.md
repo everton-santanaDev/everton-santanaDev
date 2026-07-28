@@ -6,7 +6,8 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 ---
 
 ## 💻 Linguagens que eu comando:
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,javascript,c,mysql" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
@@ -15,13 +16,13 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL"/>
-</div>
+</p>
 
 
 --- 
 
 ## 🌐 Onde me encontrar:
-📎 **LinkedIn:** www.linkedin.com/in/everton-santana-5609bb230 <br>
+📎 **LinkedIn:** https://www.linkedin.com/in/everton-santana-5609bb230
 💬 **Discord:** everton.dev#0001  
 📧 **Gmail:** everton.dev@gmail.com  
 📸 **Instagram:** [instagram.com/everton.dev](https://instagram.com/everton.dev)
@@ -29,14 +30,14 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 ---
 
 ## 🏆 Troféus do GitHub:
-![trophy](https://github-profile-trophy.vercel.app/?username=everton-dev&theme=dracula&row=1&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=everton-santanaDev&theme=dracula&row=1&column=7)
 
 
 ---
 
 ## 📊 Estatísticas do GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=everton-dev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dev&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=everton-santanaDev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everton-santanaDev&layout=compact&theme=tokyonight)
 
 ---
 
