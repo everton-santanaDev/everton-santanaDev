@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo!
 
-## 💙 Eu sou Everton Santana
+##  Eu sou Everton Santana
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 💻 Desenvolvedor Back-end em formação
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,c,html,css,js,mysql,git,github,vscode&perline=6" />
@@ -18,7 +18,7 @@
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 * 🐍 Python
 * ⚙️ C
