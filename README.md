@@ -10,7 +10,7 @@
 
 ---
 
-## Tecnologias que estudo!
+## 🚀 Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,c,html,css,js,mysql,git,github,vscode&perline=6" />
@@ -18,7 +18,7 @@
 
 ---
 
-##  Atualmente estudando
+## 📚 Atualmente estudando
 
 * 🐍 Python
 * ⚙️ C
@@ -97,4 +97,3 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e evol
 Se gostar dos meus projetos, deixe uma ⭐ nos repositórios.
 
 </div>
-
